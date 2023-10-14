@@ -1,0 +1,6 @@
+container_path: /home/ec2-user/postgresql
+container_name: cw_postgre
+image_name: clarusway/postgre
+password: Pp123456789
+
+# ansible-vault encrypt main.yml
